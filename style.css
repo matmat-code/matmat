@@ -1,8 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower&display=swap');
+
 body{
   margin: 0;
   padding: 0;
-  background: url(https://i.pinimg.com/originals/c0/73/4e/c0734e0e5751bf66896d2bced7a3b7cf.jpg) no-repeat;
+  background: url(https://img.freepik.com/free-photo/milky-way-starry-sky-background_34011-265.jpg?size=626&ext=jpg) no-repeat;
   background-size:cover;
+  font-family: 'Indie Flower', cursive;
 }
 .box{
   width: 450px;
@@ -12,11 +15,11 @@ body{
   margin:auto;
   margin-top: 5%;
   color: white;
-  font-family: 'Century Gothic',sans-serif;
+  
 }
 .box-img{
   border-radius: 50%;
-  width: 200px;
+  width: 300px;
   height: 200px;
 }
 .box h1{
@@ -25,12 +28,14 @@ body{
   font-weight: 100;
 }
 .box h5{
-  font-size: 20px;
+  font-size: 30px;
   letter-spacing: 3px;
   font-weight: 100;
 }
 .box p{
   text-align: justify;
+  font-size: 22px;
+  color: white;
 }
 ul{
   margin: 0;
